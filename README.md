@@ -19,7 +19,7 @@
 
 ### 目前已知问题
 
-1. “可能”无法变频
+1. “可能”CPU无法变频
 2. ps2模块无法升级，否则触摸板失效
 3. 无线网卡需搭配[HeliPort](https://github.com/OpenIntelWireless/HeliPort)使用，若想使用Wi-Fi管理，需在配置文件中取消[itlwm](https://github.com/zxystd/itlwm)模块
 4. 偶发声卡失效，重启即可
